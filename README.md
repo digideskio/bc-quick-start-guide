@@ -139,8 +139,14 @@ $ heroku config:pull
 Config for guarded-atoll-4857 written to .env
 ```
 
-You may execute `heroku config:push` to restore these setting to your heroku host. More information about heroku
-configuration pease refer to [heroku-config](https://github.com/ddollar/heroku-config).
+You may execute `heroku config:push` to restore these setting to your heroku host.
+
+```console
+$ heroku config:push
+Config in .env written to guarded-atoll-4857
+```
+
+More information about heroku configuration pease refer to [heroku-config](https://github.com/ddollar/heroku-config).
 
 ## View logs
 
