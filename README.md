@@ -146,7 +146,7 @@ $ heroku config:push
 Config in .env written to guarded-atoll-4857
 ```
 
-More information about heroku configuration pease refer to [heroku-config](https://github.com/ddollar/heroku-config).
+More information about heroku configuration please refer to [heroku-config](https://github.com/ddollar/heroku-config).
 
 ## View logs
 
