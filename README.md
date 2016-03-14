@@ -11,6 +11,11 @@ The tutorial assumes that you have:
 * a free [Heroku account](https://signup.heroku.com/signup/dc)
 * [Java 8](http://www.oracle.com/technetwork/java/javase/downloads/) installed
 * [Maven 3](http://maven.apache.org/download.html) installed
+* Have access to [BusinessConnect](https://developers.line.me/businessconnect/overview)
+
+## Notice
+
+The code provided in this repository is intended to be used as examples only and is not recommended for production use.
 
 ## Set up
 
